@@ -1,0 +1,22 @@
+{
+  "name": "edm-with-node",
+  "version": "1.0.0",
+  "description": "Making music with Node.js and Scribbletune",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/EDM-with-Node.git"
+  },
+  "author": "Raghav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/EDM-with-Node/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/EDM-with-Node#readme",
+  "dependencies": {
+    "scribbletune": "^0.9.1"
+  }
+}
